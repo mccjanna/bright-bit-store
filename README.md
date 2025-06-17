@@ -12,13 +12,6 @@
 ## 🌐 Live Demo  
 [🔗 Click here to view the website](https://mccjanna.github.io/bright-bit-store/)
 
-## 🛠️ Technologies Used
-- HTML5
-- CSS3
-- JavaScript
-
-## 🧠 Project Goal
-To deliver a user-friendly and informative web experience for purchasing electronic components, booking support, and learning from tutorials.
 
 ## 🖼️ Project Preview
 
@@ -35,5 +28,14 @@ Here are some screenshots showcasing the Bright Bit website in action:
 
 ### 🔹 Booking Form
 ![Booking](https://raw.githubusercontent.com/mccjanna/bright-bit-store/main/screenshot4.png)
+
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+
+## 🧠 Project Goal
+To deliver a user-friendly and informative web experience for purchasing electronic components, booking support, and learning from tutorials.
+
 
 ---
